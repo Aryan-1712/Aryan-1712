@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aryan Sharma
-- 👀 I’m interested in learning Python and mastering its components
+- 👀 I’m interested in learning Python
 - 🌱 I’m currently learning Django in Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
