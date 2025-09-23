@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aryan Sharma
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning DSA in C++ and Frontend Development
+- 🌱 I’m currently learning DSA in C++ and Full-Stack Development
 - 💞️ I’m looking to collaborate on WebDev
 - 📫 How to reach me: aryan.17.sharma.2005@gmail.com
 - 😄 Pronouns: He/Him
