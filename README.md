@@ -15,11 +15,11 @@ I'm a passionate learner building web apps and sharpening my problem-solving ski
 - Web security fundamentals & authentication systems
 
 ## 🛠️ Top skills
-- Languages: C++, JavaScript, HTML, CSS
-- Frontend: React, Bootstrap / Tailwind CSS
-- Backend: Node.js, Express
-- Databases: MongoDB, Firebase
-- Tools: Git, GitHub, VS Code, Postman
+- Languages: C++, JavaScript, HTML, CSS, Python, Java, C
+- Frontend: React, Bootstrap
+- Backend: Node.js, Django
+- Databases: PostegreSQL, MySQL, SQLite
+- Tools: Git, GitHub, Pycharm, CLion, WebStorm, IntelliJ, Postman
 
 ## ⭐ Featured projects
 - [MindMate](https://github.com/Aryan-1712/MindMate) — A Python-built wellness app demonstrating full‑stack design, data handling, and user-focused features.
@@ -30,7 +30,7 @@ I'm a passionate learner building web apps and sharpening my problem-solving ski
 ## 📚 Currently learning
 - Advanced DSA topics using C++
 - Full-Stack project patterns (authentication, CRUD, REST APIs)
-- Deployment workflows (Netlify, Vercel, Heroku) and CI/CD basics
+- Deployment workflows (Render, Vercel) and CI/CD basics
 
 ## 🤝 I’m open to collaborate on
 - Web development projects (React + Node)
