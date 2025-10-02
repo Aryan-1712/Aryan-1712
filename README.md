@@ -23,6 +23,7 @@ I'm a passionate learner building web apps and sharpening my problem-solving ski
 
 ## ⭐ Featured projects
 - [MindMate](https://github.com/Aryan-1712/MindMate) — A Python-built wellness app demonstrating full‑stack design, data handling, and user-focused features.
+- [CertiVault](https://github.com/Aryan-1712/CertiVault) - A secure Django application for managing and validating digital certificates to prevent fraud.
 - [Form Submission Website](https://github.com/Aryan-1712/Form-Submission-Website) — A Django-based web app with HTML forms for collecting and storing user submissions.
 - [Authentication System](https://github.com/Aryan-1712/Authentication-System) — A Django app implementing user login and logout functionality.
 
